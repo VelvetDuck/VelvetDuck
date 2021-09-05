@@ -28,8 +28,14 @@
 
 ### Currently studying:
 
-English Language <img src="https://seeklogo.com/images/U/usa-flag-logo-F080109EF3-seeklogo.com.png" width="26px">
+American English Language
+<br />
+Java Programming Language
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VelvetDuck&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelvetDuck&show_icons=true&theme=Gradient)
 
 [website]: https://github.com/VelvetDuck
